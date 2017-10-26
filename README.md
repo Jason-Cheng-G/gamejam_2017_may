@@ -1,2 +1,2 @@
-# gamejam_2017_may
-Game Jam in May 2017
+# gamjam_2017
+2017 Game Entry at the U of S
